@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">HolaMundoDicer</string>
-    <string name="toss_value">Toss Value</string>
-    <string name="toss_label">Toss Dice</string>
+    <string name="toss1_value">Toss1</string>
+    <string name="toss2_value">Toss2</string>
+    <string name="dice1_label">Dice 1</string>
+    <string name="dice2_label">Dice 2</string>
 </resources>
