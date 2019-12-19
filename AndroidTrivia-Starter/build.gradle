@@ -34,6 +34,9 @@ buildscript {
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
+
+        // Adding the safe-args dependency to the project Gradle file
+        classpath "android.arch.navigation:navigation-safe-args-gradle-plugin:$navigationVersion"
     }
 }
 
