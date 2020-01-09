@@ -24,6 +24,7 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.navigation.fragment.NavHostFragment
 import com.example.android.guesstheword.R
@@ -61,7 +62,19 @@ class GameFragment : Fragment() {
 
         Log.i("GameFragment", "GameViewModel ViewModelProviders.of invoked...")
         viewModel = ViewModelProviders.of(this).get(GameViewModel::class.java)
+        /** Setting up LiveData observation relationship **/
+        viewModel.score.observe(this, Observer { newScore ->
+            binding.scoreText.text = newScore.toString()
+        })
+        /** Setting up LiveData observation relationship **/
+        viewModel.word.observe(this, Observer { newWord ->
+            binding.wordText.text = newWord
+        })
 
+        // Observer for the Game finished event
+        viewModel.eventGameFinish.observe(this, Observer<Boolean> { hasFinished ->
+            if (hasFinished) gameFinished()
+        })
 //        resetList()
 //        nextWord()
 //
@@ -69,8 +82,8 @@ class GameFragment : Fragment() {
         binding.skipButton.setOnClickListener { onSkip() }
         binding.endGameButton.setOnClickListener { onEndGame() }
 
-        updateScoreText()
-        updateWordText()
+//        updateScoreText()
+//        updateWordText()
         return binding.root
 
     }
@@ -113,8 +126,8 @@ class GameFragment : Fragment() {
 //        }
 //        nextWord()
         viewModel.onSkip()
-        updateWordText()
-        updateScoreText()
+//        updateWordText()
+//        updateScoreText()
     }
 
     private fun onCorrect() {
@@ -123,8 +136,8 @@ class GameFragment : Fragment() {
 //        }
 //        nextWord()
         viewModel.onCorrect()
-        updateWordText()
-        updateScoreText()
+//        updateWordText()
+//        updateScoreText()
     }
 
     private fun onEndGame() {
@@ -137,8 +150,11 @@ class GameFragment : Fragment() {
     private fun gameFinished() {
         Toast.makeText(activity, "Game over...", Toast.LENGTH_SHORT).show()
         val action = GameFragmentDirections.actionGameToScore()
-        action.score = viewModel.score
+        //val score = viewModel.score.value?:0
+        action.score = viewModel.score.value?:0
         NavHostFragment.findNavController(this).navigate(action)
+
+        viewModel.onGameFinishComplete()
     }
 //    /**
 //     * Moves to the next word in the list
@@ -153,13 +169,15 @@ class GameFragment : Fragment() {
 //    }
 
 
-    /** Methods for updating the UI **/
-
-    private fun updateWordText() {
-        binding.wordText.text = viewModel.word
-    }
-
-    private fun updateScoreText() {
-        binding.scoreText.text = viewModel.score.toString()
-    }
+//    /** Methods for updating the UI **/
+//
+//    private fun updateWordText() {
+//        //binding.wordText.text = viewModel.word
+//        binding.wordText.text = viewModel.word.value
+//    }
+//
+//    private fun updateScoreText() {
+//        //binding.scoreText.text = viewModel.score.toString()
+//        binding.scoreText.text = viewModel.score.value.toString()
+//    }
 }
