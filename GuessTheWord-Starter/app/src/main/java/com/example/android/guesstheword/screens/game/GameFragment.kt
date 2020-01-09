@@ -62,14 +62,23 @@ class GameFragment : Fragment() {
 
         Log.i("GameFragment", "GameViewModel ViewModelProviders.of invoked...")
         viewModel = ViewModelProviders.of(this).get(GameViewModel::class.java)
-        /** Setting up LiveData observation relationship **/
-        viewModel.score.observe(this, Observer { newScore ->
-            binding.scoreText.text = newScore.toString()
-        })
-        /** Setting up LiveData observation relationship **/
-        viewModel.word.observe(this, Observer { newWord ->
-            binding.wordText.text = newWord
-        })
+
+        // Set the viewmodel for databinding - this allows the bound layout access
+        // to all the data in the ViewModel
+        binding.gameViewModel = viewModel
+
+        // Specify the current activity as the lifecycle owner of the binding.
+        // This is used so that the binding can observe LiveData updates
+        binding.lifecycleOwner = this
+
+//        /** Setting up LiveData observation relationship **/
+//        viewModel.score.observe(this, Observer { newScore ->
+//            binding.scoreText.text = newScore.toString()
+//        })
+//        /** Setting up LiveData observation relationship **/
+//        viewModel.word.observe(this, Observer { newWord ->
+//            binding.wordText.text = newWord
+//        })
 
         // Observer for the Game finished event
         viewModel.eventGameFinish.observe(this, Observer<Boolean> { hasFinished ->
@@ -78,9 +87,9 @@ class GameFragment : Fragment() {
 //        resetList()
 //        nextWord()
 //
-        binding.correctButton.setOnClickListener { onCorrect() }
-        binding.skipButton.setOnClickListener { onSkip() }
-        binding.endGameButton.setOnClickListener { onEndGame() }
+//        binding.correctButton.setOnClickListener { onCorrect() }
+//        binding.skipButton.setOnClickListener { onSkip() }
+//        binding.endGameButton.setOnClickListener { onEndGame() }
 
 //        updateScoreText()
 //        updateWordText()
@@ -120,29 +129,29 @@ class GameFragment : Fragment() {
 
     /** Methods for buttons presses **/
 
-    private fun onSkip() {
-//        if (!wordList.isEmpty()) {
-//            score--
-//        }
-//        nextWord()
-        viewModel.onSkip()
-//        updateWordText()
-//        updateScoreText()
-    }
-
-    private fun onCorrect() {
-//        if (!wordList.isEmpty()) {
-//            score++
-//        }
-//        nextWord()
-        viewModel.onCorrect()
-//        updateWordText()
-//        updateScoreText()
-    }
-
-    private fun onEndGame() {
-        gameFinished()
-    }
+//    private fun onSkip() {
+////        if (!wordList.isEmpty()) {
+////            score--
+////        }
+////        nextWord()
+//        viewModel.onSkip()
+////        updateWordText()
+////        updateScoreText()
+//    }
+//
+//    private fun onCorrect() {
+////        if (!wordList.isEmpty()) {
+////            score++
+////        }
+////        nextWord()
+//        viewModel.onCorrect()
+////        updateWordText()
+////        updateScoreText()
+//    }
+//
+//    private fun onEndGame() {
+//        gameFinished()
+//    }
 
     /**
      * Called when the game is finished
