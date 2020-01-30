@@ -42,6 +42,10 @@ class OverviewViewModel : ViewModel() {
     val response: LiveData<String>
         get() = _response
 
+    private val _property = MutableLiveData<MarsProperty>()
+    val property: LiveData<MarsProperty>
+        get() = _property
+
     private var viewModelJob = Job()
     private val coroutineScope = CoroutineScope(viewModelJob + Dispatchers.Main)
     /**
@@ -60,34 +64,14 @@ class OverviewViewModel : ViewModel() {
             try {
                 var listResult = getPropertiesDeferred.await()
                 _response.value = "Success: ${listResult.size} Mars properties retrieved..."
+                if (listResult.size > 0) {
+                    _property.value = listResult[0]
+                }
             }
             catch (e:Exception) {
                 _response.value = "Failure: ${e.message}"
             }
         }
-//        //_response.value = "Set the Mars API Response here!"
-//        MarsApi.retrofitService.getProperties().enqueue(
-//                object: Callback<List<MarsProperty>> {
-//                    override fun onFailure(call: Call<List<MarsProperty>>, t: Throwable) {
-//                        _response.value = "Failure: " + t.message
-//                    }
-//
-//                    override fun onResponse(call: Call<List<MarsProperty>>, response: Response<List<MarsProperty>>) {
-//                        _response.value = "Success: ${response.body()?.size} Mars properties retrieved..."
-//                    }
-//                }
-//        )
-//        MarsApi.retrofitService.getProperties().enqueue(
-//            object: Callback<String> {
-//                override fun onFailure(call: Call<String>, t: Throwable) {
-//                    _response.value = "Failure: " + t.message
-//                }
-//
-//                override fun onResponse(call: Call<String>, response: Response<String>) {
-//                    _response.value = response.body()
-//                }
-//            }
-//        )
     }
 
     override fun onCleared() {
