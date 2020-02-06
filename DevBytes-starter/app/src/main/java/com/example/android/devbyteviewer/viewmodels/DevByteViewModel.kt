@@ -23,9 +23,6 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.example.android.devbyteviewer.database.getDatabase
-import com.example.android.devbyteviewer.domain.DevByteVideo
-import com.example.android.devbyteviewer.network.DevByteNetwork
-//import com.example.android.devbyteviewer.network.asDomainModel
 import com.example.android.devbyteviewer.repository.VideosRepository
 import kotlinx.coroutines.*
 import java.io.IOException
@@ -58,19 +55,6 @@ class DevByteViewModel(application: Application) : AndroidViewModel(application)
      * viewModelJob.cancel()
      */
     private val viewModelScope = CoroutineScope(viewModelJob + Dispatchers.Main)
-
-//    /**
-//     * A playlist of videos that can be shown on the screen. This is private to avoid exposing a
-//     * way to set this value to observers.
-//     */
-//    private val _playlist = MutableLiveData<List<DevByteVideo>>()
-//
-//    /**
-//     * A playlist of videos that can be shown on the screen. Views should use this to get access
-//     * to the data.
-//     */
-//    val playlist: LiveData<List<DevByteVideo>>
-//        get() = _playlist
 
     /**
      * Event triggered for network error. This is private to avoid exposing a
@@ -110,22 +94,6 @@ class DevByteViewModel(application: Application) : AndroidViewModel(application)
      * Refresh data from network and pass it via LiveData. Use a coroutine launch to get to
      * background thread.
      */
-//    private fun refreshDataFromNetwork() = viewModelScope.launch {
-//
-//        try {
-//             val playlist = DevByteNetwork.devbytes.getPlaylist().await()
-//            _playlist.postValue(playlist.asDomainModel())
-//
-//            _eventNetworkError.value = false
-//            _isNetworkErrorShown.value = false
-//
-//        } catch (networkError: IOException) {
-//            //delay(2000)
-//            // Show a Toast error message and hide the progress bar.
-//            _eventNetworkError.value = true
-//        }
-//    }
-
     private fun refreshDataFromRepository() {
         viewModelScope.launch {
             try {
