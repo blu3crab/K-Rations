@@ -1,0 +1,472 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\637aabc8eca87c10a1980e9f0b2e55b0\databinding-adapters-3.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f5f27fd4915dd0c71ecf60fbf5d17c5d\databinding-runtime-3.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fe1df968ad8cb70236146b1869e82004\jetified-navigation-ui-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7e1916b60a2cf69a9ed8858645e131ca\jetified-navigation-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\9ffb0772d405e7d9667aacca2bb9e29e\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7e4eaa380dbf50a3c0844b6de67fbbff\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f71faa7a9cff320132c91acfa6022da8\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\8756c01ff66c751a6d25c36de2904738\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\2b5eb375ec4ae17b914ff2712371f52b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1c1d95d91c932b048b550c76aafb87c8\jetified-navigation-fragment-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.work:work-runtime-ktx:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\487e72715c7f6110192466c525c8aa96\jetified-work-runtime-ktx-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:17:1-123:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dc69ca6f2af4a9a8e714cce3c54c55c7\lifecycle-extensions-2.2.0-alpha01\AndroidManifest.xml:17:1-25:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7338fe2f98f279b90d7539a775165e34\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b1340f3dbabf04ffbf9351a6fb604ab0\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\29bb691ce319af1b0f631a5d79f0443f\jetified-navigation-fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dfee3835c1fcd2629cc95faffbc86e43\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\35d3d2fd3df9641112efbbc3c0a1dc07\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\376b99f37fde954842c035724f8e0358\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\129a4c6af8d2df93229288224d043333\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\92f7d58622511a02f4c0d7086b96f8ec\jetified-navigation-runtime-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\cc9cac48e3e72da23383139105981ab3\jetified-navigation-runtime-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\313e6a0d81140c971749fd6fa9176404\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\239103becaa068ed395c0d913581786f\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e4dae7761f4ce0025bc2d59f32648053\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fb278aebc03f181aba0c77e174f26353\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\85ef3348a70f3786285d2b288b17dedc\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\40b0f92040aaf8affc7b211625562ce3\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\6c011d1bd6b74b6d81ca988c3afcae85\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\69b4dd10d22e3a8b3f75b2842c070c72\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1b557810bcd2d64dd496cf12a0e76ea7\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fb5f53a2e7821c567c83f6f824742847\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b6eb3bc56d0a4380f5792b22bed37bb7\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7c5c666073f2e5f2df0c9302fe74d50a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4a23e8840f91be23fc197f410ace5ec9\jetified-navigation-common-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4dcbc948b60987f303d8cfc68031bf59\jetified-navigation-common-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4fac8f86828bd72dd0f099c387b36b18\core-1.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1e87c6b2bff99f19b970fa0204c11069\lifecycle-service-2.2.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\cf01f8daa860a0b738614a0fcda92c5c\lifecycle-runtime-2.2.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\26ffbdaab720b3db0b8212ffdc4517dd\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\3ee41b0e8dfa428bdeef4013074456f9\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0450f84706efff036c3a553f6980ef7f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\8f762d996935327a8b312cdfa739c9dc\lifecycle-livedata-2.2.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0640fab00e64b3854b08d7b8eae5ed71\lifecycle-livedata-core-2.2.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e7e41df8b7fad6f91c67c125481d99b7\core-runtime-2.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1f4caf1e813593b3ece6b0e3a1d7fecc\lifecycle-viewmodel-2.2.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0fb2d22a2033e68da3f23fe8cc643151\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4e613eb828a8df04d514ac814b87394c\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\16ef9f86ed49095cfa7bab3860d0325b\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\a9b5a9d97a25cd9a0b09ee0f009e186c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\48fdfee675a455fe14a82cf61ff95044\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\545ecfb5ef54e63afccdfb3db8029279\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f5a5787d1d8e535131ce5a716ece8c5b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:20:5-48
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:22:22-64
+application
+ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:24:5-40:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\9ffb0772d405e7d9667aacca2bb9e29e\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\9ffb0772d405e7d9667aacca2bb9e29e\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\2b5eb375ec4ae17b914ff2712371f52b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\2b5eb375ec4ae17b914ff2712371f52b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:27:5-121:19
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:27:5-121:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dc69ca6f2af4a9a8e714cce3c54c55c7\lifecycle-extensions-2.2.0-alpha01\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dc69ca6f2af4a9a8e714cce3c54c55c7\lifecycle-extensions-2.2.0-alpha01\AndroidManifest.xml:22:5-23:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7338fe2f98f279b90d7539a775165e34\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7338fe2f98f279b90d7539a775165e34\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b1340f3dbabf04ffbf9351a6fb604ab0\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b1340f3dbabf04ffbf9351a6fb604ab0\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4fac8f86828bd72dd0f099c387b36b18\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4fac8f86828bd72dd0f099c387b36b18\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\26ffbdaab720b3db0b8212ffdc4517dd\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\26ffbdaab720b3db0b8212ffdc4517dd\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0fb2d22a2033e68da3f23fe8cc643151\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0fb2d22a2033e68da3f23fe8cc643151\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4fac8f86828bd72dd0f099c387b36b18\core-1.0.2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:28:9-41
+	tools:ignore
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:32:9-48
+	android:roundIcon
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:25:9-43
+activity#com.example.android.devbyteviewer.ui.DevByteActivity
+ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:33:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\637aabc8eca87c10a1980e9f0b2e55b0\databinding-adapters-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\637aabc8eca87c10a1980e9f0b2e55b0\databinding-adapters-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f5f27fd4915dd0c71ecf60fbf5d17c5d\databinding-runtime-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f5f27fd4915dd0c71ecf60fbf5d17c5d\databinding-runtime-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fe1df968ad8cb70236146b1869e82004\jetified-navigation-ui-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fe1df968ad8cb70236146b1869e82004\jetified-navigation-ui-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7e1916b60a2cf69a9ed8858645e131ca\jetified-navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7e1916b60a2cf69a9ed8858645e131ca\jetified-navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\9ffb0772d405e7d9667aacca2bb9e29e\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\9ffb0772d405e7d9667aacca2bb9e29e\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7e4eaa380dbf50a3c0844b6de67fbbff\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7e4eaa380dbf50a3c0844b6de67fbbff\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f71faa7a9cff320132c91acfa6022da8\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f71faa7a9cff320132c91acfa6022da8\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\8756c01ff66c751a6d25c36de2904738\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\8756c01ff66c751a6d25c36de2904738\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\2b5eb375ec4ae17b914ff2712371f52b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\2b5eb375ec4ae17b914ff2712371f52b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1c1d95d91c932b048b550c76aafb87c8\jetified-navigation-fragment-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1c1d95d91c932b048b550c76aafb87c8\jetified-navigation-fragment-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime-ktx:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\487e72715c7f6110192466c525c8aa96\jetified-work-runtime-ktx-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime-ktx:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\487e72715c7f6110192466c525c8aa96\jetified-work-runtime-ktx-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dc69ca6f2af4a9a8e714cce3c54c55c7\lifecycle-extensions-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dc69ca6f2af4a9a8e714cce3c54c55c7\lifecycle-extensions-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7338fe2f98f279b90d7539a775165e34\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7338fe2f98f279b90d7539a775165e34\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b1340f3dbabf04ffbf9351a6fb604ab0\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b1340f3dbabf04ffbf9351a6fb604ab0\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\29bb691ce319af1b0f631a5d79f0443f\jetified-navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\29bb691ce319af1b0f631a5d79f0443f\jetified-navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dfee3835c1fcd2629cc95faffbc86e43\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\dfee3835c1fcd2629cc95faffbc86e43\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\35d3d2fd3df9641112efbbc3c0a1dc07\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\35d3d2fd3df9641112efbbc3c0a1dc07\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\376b99f37fde954842c035724f8e0358\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\376b99f37fde954842c035724f8e0358\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\129a4c6af8d2df93229288224d043333\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\129a4c6af8d2df93229288224d043333\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\92f7d58622511a02f4c0d7086b96f8ec\jetified-navigation-runtime-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\92f7d58622511a02f4c0d7086b96f8ec\jetified-navigation-runtime-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\cc9cac48e3e72da23383139105981ab3\jetified-navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\cc9cac48e3e72da23383139105981ab3\jetified-navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\313e6a0d81140c971749fd6fa9176404\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\313e6a0d81140c971749fd6fa9176404\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\239103becaa068ed395c0d913581786f\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\239103becaa068ed395c0d913581786f\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e4dae7761f4ce0025bc2d59f32648053\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e4dae7761f4ce0025bc2d59f32648053\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fb278aebc03f181aba0c77e174f26353\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fb278aebc03f181aba0c77e174f26353\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\85ef3348a70f3786285d2b288b17dedc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\85ef3348a70f3786285d2b288b17dedc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\40b0f92040aaf8affc7b211625562ce3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\40b0f92040aaf8affc7b211625562ce3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\6c011d1bd6b74b6d81ca988c3afcae85\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\6c011d1bd6b74b6d81ca988c3afcae85\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\69b4dd10d22e3a8b3f75b2842c070c72\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\69b4dd10d22e3a8b3f75b2842c070c72\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1b557810bcd2d64dd496cf12a0e76ea7\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1b557810bcd2d64dd496cf12a0e76ea7\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fb5f53a2e7821c567c83f6f824742847\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\fb5f53a2e7821c567c83f6f824742847\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b6eb3bc56d0a4380f5792b22bed37bb7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\b6eb3bc56d0a4380f5792b22bed37bb7\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7c5c666073f2e5f2df0c9302fe74d50a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\7c5c666073f2e5f2df0c9302fe74d50a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4a23e8840f91be23fc197f410ace5ec9\jetified-navigation-common-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4a23e8840f91be23fc197f410ace5ec9\jetified-navigation-common-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4dcbc948b60987f303d8cfc68031bf59\jetified-navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4dcbc948b60987f303d8cfc68031bf59\jetified-navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4fac8f86828bd72dd0f099c387b36b18\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4fac8f86828bd72dd0f099c387b36b18\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1e87c6b2bff99f19b970fa0204c11069\lifecycle-service-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1e87c6b2bff99f19b970fa0204c11069\lifecycle-service-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\cf01f8daa860a0b738614a0fcda92c5c\lifecycle-runtime-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\cf01f8daa860a0b738614a0fcda92c5c\lifecycle-runtime-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\26ffbdaab720b3db0b8212ffdc4517dd\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\26ffbdaab720b3db0b8212ffdc4517dd\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\3ee41b0e8dfa428bdeef4013074456f9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\3ee41b0e8dfa428bdeef4013074456f9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0450f84706efff036c3a553f6980ef7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0450f84706efff036c3a553f6980ef7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\8f762d996935327a8b312cdfa739c9dc\lifecycle-livedata-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\8f762d996935327a8b312cdfa739c9dc\lifecycle-livedata-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0640fab00e64b3854b08d7b8eae5ed71\lifecycle-livedata-core-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0640fab00e64b3854b08d7b8eae5ed71\lifecycle-livedata-core-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e7e41df8b7fad6f91c67c125481d99b7\core-runtime-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0-beta01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e7e41df8b7fad6f91c67c125481d99b7\core-runtime-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1f4caf1e813593b3ece6b0e3a1d7fecc\lifecycle-viewmodel-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\1f4caf1e813593b3ece6b0e3a1d7fecc\lifecycle-viewmodel-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0fb2d22a2033e68da3f23fe8cc643151\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\0fb2d22a2033e68da3f23fe8cc643151\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4e613eb828a8df04d514ac814b87394c\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\4e613eb828a8df04d514ac814b87394c\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\16ef9f86ed49095cfa7bab3860d0325b\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\16ef9f86ed49095cfa7bab3860d0325b\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\a9b5a9d97a25cd9a0b09ee0f009e186c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\a9b5a9d97a25cd9a0b09ee0f009e186c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\48fdfee675a455fe14a82cf61ff95044\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\48fdfee675a455fe14a82cf61ff95044\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\545ecfb5ef54e63afccdfb3db8029279\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\545ecfb5ef54e63afccdfb3db8029279\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f5a5787d1d8e535131ce5a716ece8c5b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\f5a5787d1d8e535131ce5a716ece8c5b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tuc\dev\K-Rations\DevBytes-starter\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:56:9-66:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:59:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:60:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:61:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:64:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:68:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:74:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:75:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:85:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:86:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:89:9-98:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:90:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:95:13-97:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:96:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:102:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:103:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:104:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:100:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:105:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:106:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:106:25-76
+action#android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:107:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:108:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:111:9-120:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:114:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:115:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:116:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:112:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:117:13-119:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:118:17-98
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\702ab1fb3a0ea8019c530719dd01011f\jetified-work-runtime-1.0.1\AndroidManifest.xml:118:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\ee5d210a91b9d1884f3e9b60058b2fd8\room-runtime-2.1.0-alpha06\AndroidManifest.xml:24:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-alpha01] C:\Users\plumdeeply\.gradle\caches\transforms-2\files-2.1\e617df90cd6954456e6ff3cf9883c2c4\lifecycle-process-2.2.0-alpha01\AndroidManifest.xml:24:13-79

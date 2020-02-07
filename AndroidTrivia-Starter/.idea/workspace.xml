@@ -11,8 +11,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68bed0f0-4782-4d8a-8998-0ec80aaf28fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevBytes-starter/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevBytes-starter/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/BindingAdapters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/add/AddGdgFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/add/AddGdgViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/home/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/home/HomeViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/network/GdgApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/network/GdgChapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/search/GdgChapterRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/search/GdgListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/search/GdgListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/java/com/example/android/gdgfinder/search/GdgListViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/drawable/behind.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/drawable/ic_gdg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/drawable/ic_gdg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/drawable/session.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/drawable/session.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/drawable/wtm.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/font/lobster_two.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/font/lobster_two.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/add_gdg_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/add_gdg_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/fragment_gdg_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/fragment_gdg_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/home_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/home_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/menu/drawer_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/menu/drawer_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values-es/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values-es/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/font_certs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDGFinder-Starter/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MarsRealEstate-Starter/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MarsRealEstate-Starter/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrackMySleepQuality-Starter/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrackMySleepQuality-Starter/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +83,12 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml">
+          <provider selected="true" editor-type-id="nav-designer" />
           <provider editor-type-id="text-editor">
             <state relative-caret-position="1139">
               <caret line="67" column="48" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="nav-designer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -88,11 +121,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -133,7 +175,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/menu/navdrawer_menu.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml" />
@@ -141,6 +182,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -223,10 +265,24 @@
     <panes>
       <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
+            <path>
+              <item name="AndroidTrivia-Starter" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="AndroidTrivia-Starter" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="AndroidTrivia-Starter" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
             <path>
               <item name="AndroidTrivia-Starter" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -235,13 +291,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="C:/tools/AndroidSDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DessertClicker-Starter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
@@ -334,8 +391,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="104" y="59" width="1685" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20615384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20615384" />
       <window_info id="Build Variants" order="1" side_tool="true" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,13 +402,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Captures" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Run" order="0" />
-      <window_info active="true" anchor="bottom" id="Logcat" order="1" sideWeight="0.4990403" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4990403" weight="0.3298731" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4996801" weight="0.3298731" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5003199" side_tool="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.23298731" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4996801" weight="0.16724336" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4996801" visible="true" weight="0.16724336" />
       <window_info anchor="bottom" id="Find" order="8" sideWeight="0.4996801" weight="0.24221453" />
       <window_info anchor="bottom" id="Android Profiler" order="9" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -392,13 +450,6 @@
       <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -435,12 +486,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml">
+      <provider selected="true" editor-type-id="nav-designer" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1139">
           <caret line="67" column="48" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="nav-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -459,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="95" selection-start-line="40" selection-start-column="95" selection-end-line="40" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -473,10 +517,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="95" selection-start-line="40" selection-start-column="95" selection-end-line="40" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
