@@ -97,7 +97,7 @@
         <Button
             android:id="@+id/clear_button"
             android:onClick="@{() -> sleepTrackerViewModel.onClear()}"
-            android:enabled="@{sleepTrackerViewModel.clearButtonVisible}"
+            android:enabled="@{sleepTrackerViewModel.clearuttonVisible}"
             style="@style/SleepButtons"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
